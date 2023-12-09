@@ -1,0 +1,47 @@
+@charset "UTF-8";
+#header
+{
+	background-color:#1374A4;
+	width:50%;
+	height:100px;
+	margin-left:25%;
+}
+#navigater
+{
+	background-color:#0F5A80;
+	width:50%;
+	height:30px;
+	margin-left:25%;
+}
+#content
+{
+	background-color:#48B4EA;
+	width:50%;
+	height:400px;
+	margin-left:25%;
+}
+#pic
+{
+	padding-top:60px;
+	padding-left:20%;
+}
+#contentArea
+{
+	
+	border-radius: 25px;
+	padding-top:60px;
+	padding-left:25%;
+	
+}
+#alignform
+{
+	padding-left:35%;
+	padding-top:90px;
+}
+#footer
+{
+	background-color:#24A5E5;
+	width:50%;
+	height:100px;
+	margin-left:25%;	
+}
